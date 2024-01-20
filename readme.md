@@ -21,13 +21,13 @@ const symbols = Known.getSymbols (); // [Symbol.asyncIterator, Symbol.hasInstanc
 
 const names = Known.getNames (); // ['asyncIterator', 'hasInstance', 'isConcatSpreadable', ...]
 
-// Retrieve the name of a well-known symbol, given the symbol
-
-const name = Known.getName ( Symbol.asyncIterator ); // 'asyncIterator'
-
 // Retrieve the symbol of a well-known symbol, given the name
 
 const symbol = Known.getSymbol ( 'asyncIterator' ); // Symbol.asyncIterator
+
+// Retrieve the name of a well-known symbol, given the symbol
+
+const name = Known.getName ( Symbol.asyncIterator ); // 'asyncIterator'
 
 // Check if a symbol is a well-known symbol
 
