@@ -2,6 +2,7 @@
   "name": "known-symbols",
   "repository": "github:fabiospampinato/known-symbols",
   "description": "A little library for working with well-known symbols.",
+  "license": "MIT",
   "version": "1.0.0",
   "type": "module",
   "main": "dist/index.js",
@@ -24,8 +25,8 @@
     "symbols"
   ],
   "devDependencies": {
-    "fava": "^0.3.2",
-    "tsex": "^3.0.1",
-    "typescript": "^5.3.3"
+    "fava": "^0.3.4",
+    "tsex": "^4.0.2",
+    "typescript": "^5.7.3"
   }
 }
