@@ -3,7 +3,7 @@
   "repository": "github:fabiospampinato/known-symbols",
   "description": "A little library for working with well-known symbols.",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "dist/index.js",
   "exports": "./dist/index.js",
