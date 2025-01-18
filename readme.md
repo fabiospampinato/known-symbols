@@ -5,7 +5,7 @@ A little library for working with [well-known symbols](https://developer.mozilla
 ## Install
 
 ```sh
-npm install --save known-symbols
+npm install known-symbols
 ```
 
 ## Usage
